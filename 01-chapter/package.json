@@ -1,0 +1,21 @@
+{
+  "name": "01-chapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "01": "ts-node ./01._demo.ts",
+    "02": "ts-node ./02._type.ts",
+    "03": "ts-node ./03._annotation-interface.ts",
+    "04": "ts-node ./04._function.ts",
+    "05": "ts-node ./05._array-tuple.ts",
+    "06": "ts-node ./06._interface.ts",
+    "07": "ts-node ./07._class.ts",
+    "08": "ts-node ./08._prop-type.ts",
+    "09": "ts-node ./07._getter-setter.ts",
+    "10": "ts-node ./07._abstract.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

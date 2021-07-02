@@ -1,0 +1,24 @@
+{
+  "name": "05-chapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "01": "ts-node ./src/01._class-decorator.ts",
+    "02": "ts-node ./src/02._method-decorator.ts",
+    "03": "ts-node ./src/03._get-set.ts",
+    "04": "ts-node ./src/04._prop-dec.ts",
+    "05": "ts-node ./src/05._arg-dec.ts",
+    "06": "ts-node ./src/06._example-prod.ts",
+    "07": "ts-node ./src/07._reflect-metadata.ts",
+    "08": "ts-node ./src/08._rm-sx.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}

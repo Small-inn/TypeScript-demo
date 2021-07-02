@@ -1,0 +1,19 @@
+{
+  "name": "03-chapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "01": "ts-node ./01._test.ts",
+    "02": "ts-node ./02._union-type.ts",
+    "03": "ts-node ./03._enum.ts",
+    "04": "ts-node ./04._function-generic.ts",
+    "05": "ts-node ./05._class-generic.ts",
+    "07": "ts-node ./07._declare.ts",
+    "08": "ts-node ./08._es-module.ts",
+    "09": "ts-node ./09._keyof.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

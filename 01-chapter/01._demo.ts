@@ -1,7 +1,8 @@
-interface Point { x: Number, y: Number }
+interface Point { x: number, y: number }
 
 function tsDemo(data: Point) {
   console.log('123')
-  // return Math.sqrt(data.x ** 2 + data.y ** 2) // 报红错误
+  return Math.sqrt(data.x ** 2 + data.y ** 2)
 }
 tsDemo({x: 1, y: 2})
+console.log(tsDemo({x: 1, y: 2}))
